@@ -1,4 +1,5 @@
-{include file="v1/public/href" /}
+{extend name="v1/public/base" /}
+{block name="body"}
 	<div class="container">
 		<div class="row w_main_row">
 			<ol class="breadcrumb w_breadcrumb">
@@ -153,3 +154,4 @@
 		$(".msgCon").prepend("<div class='msgBox'><dl><dt><img src='img/sight1.jpg' width='50' height='50'/></dt><dd>遇见</dd></dl><div class='msgTxt'>"+txt+"</div></div>");
 	  });
 	</script>
+{/block}
