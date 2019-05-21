@@ -5,6 +5,7 @@ use app\blog\controller\BaseController;
 
 class Index extends BaseController
 {
+	
     public function index()
     {
         return $this->fetch();
