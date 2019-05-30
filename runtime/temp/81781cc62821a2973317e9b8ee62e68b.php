@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:57:"D:\webs\tp5blog/application/blog\view\v1\about\about.html";i:1558751528;s:57:"D:\webs\tp5blog\application\blog\view\v1\public\base.html";i:1554954995;s:57:"D:\webs\tp5blog\application\blog\view\v1\public\head.html";i:1558692737;s:59:"D:\webs\tp5blog\application\blog\view\v1\public\header.html";i:1558752893;s:59:"D:\webs\tp5blog\application\blog\view\v1\public\footer.html";i:1552276671;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:5:{s:57:"D:\webs\tp5blog/application/blog\view\v1\about\about.html";i:1558751528;s:57:"D:\webs\tp5blog\application\blog\view\v1\public\base.html";i:1559203491;s:57:"D:\webs\tp5blog\application\blog\view\v1\public\head.html";i:1558692737;s:59:"D:\webs\tp5blog\application\blog\view\v1\public\header.html";i:1558752893;s:59:"D:\webs\tp5blog\application\blog\view\v1\public\footer.html";i:1552276671;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 

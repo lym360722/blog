@@ -6,9 +6,13 @@
             <file>file:/D:/webs/tp5blog/application/blog/model/Article.php</file>
             <file>file:/D:/webs/tp5blog/application/blog/model/Lable.php</file>
             <file>file:/D:/webs/tp5blog/application/blog/model/User.php</file>
+            <file>file:/D:/webs/tp5blog/application/config.php</file>
             <file>file:/D:/webs/tp5blog/application/blog/model/ArticleComment.php</file>
+            <file>file:/D:/webs/tp5blog/application/blog/model/Links.php</file>
             <file>file:/D:/webs/tp5blog/application/blog/controller/v1/Index.php</file>
             <file>file:/D:/webs/tp5blog/application/blog/view/v1/index/index.html</file>
+            <file>file:/D:/webs/tp5blog/application/blog/view/v1/article_detail/articledetail.html</file>
+            <file>file:/D:/webs/tp5blog/application/blog/controller/v1/ArticleDetail.php</file>
         </group>
     </open-files>
 </project-private>

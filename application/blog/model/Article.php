@@ -34,7 +34,7 @@ class Article extends BaseModel
     // 获取文章
     public static function getArticle()
     {
-        $article = self::with(['image','user','comment'])->order('id','desc')->select();
+        $article = self::with(['image','user','comment'])->order('id','desc')->limit(5)->select();
         foreach ($article as $vo){
            $vo['lable_id'] = self::getLable(explode(',',$vo['lable_id']));
            
